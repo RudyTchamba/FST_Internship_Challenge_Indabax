@@ -15,7 +15,6 @@ The system normalizes written text containing numbers into their spoken form. It
 *   **Cardinal Numbers (0-1000)**: Full support for standard cardinal numbers.
 *   **Multilingual Support**:
     *   **English**: Default mode.
-    *   **French**: Supported via `--lang fr` flag (handles "quatre-vingts", "soixante-dix", etc.).
 *   **Advanced Normalization**:
     *   **Large Numbers**: Intelligent handling of large numbers based on formatting.
         *   Formatted (e.g., `1,234,567`): Normalized as large cardinals (up to sextillion).
